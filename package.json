@@ -1,0 +1,12 @@
+{
+  "name": "@thispsj-lab/npm-hello-world",
+  "version": "0.0.2",
+  "description": "A utility to greet an user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PSJ",
+  "license": "MIT",
+  "repository":"git://github.com/thispsj-lab/npm-hello-world"
+}
