@@ -1,16 +1,18 @@
 {
   "name": "@thispsj-lab/npm-hello-world",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A utility to greet an user.",
   "main": "index.js",
-  "files":["bin"],
-  "bin":{
-   "greet":"./bin/greet"
-},
+  "files": [
+    "bin"
+  ],
+  "bin": {
+    "greet": "./bin/greet"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "PSJ <51746608+thispsj@users.noreply.github.com> (https://github.com/thispsj)",
   "license": "MIT",
-  "repository":"git://github.com/thispsj-lab/npm-hello-world"
+  "repository": "git://github.com/thispsj-lab/npm-hello-world"
 }
