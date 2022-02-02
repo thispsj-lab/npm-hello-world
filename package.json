@@ -1,7 +1,7 @@
 {
   "name": "@thispsj-lab/npm-hello-world",
   "version": "0.0.3",
-  "description": "A utility to greet an user.",
+  "description": "A utility to greet an user with name passed as an argument.",
   "main": "index.js",
   "files": [
     "bin"
