@@ -1,3 +1,7 @@
 #!/usr/bin/env node
 
-require('../index').greet(process.argv[2])
+var greeter=require('../index')
+if(process.argv.length===3)
+ greeter.greet(process.argv[2])
+else
+  console.warn('Usage: greet <Your name>')
